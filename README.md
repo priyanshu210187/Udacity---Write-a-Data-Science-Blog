@@ -25,3 +25,7 @@ Notebook containing the data analysis.
 
 Results
 The main findings of the code can be found at the post available here: https://medium.com/@pks.priyanshu/write-a-data-science-blog-9d47098253d7
+
+
+Licensing, Authors, Acknowledgements
+Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available here: https://insights.stackoverflow.com/survey
